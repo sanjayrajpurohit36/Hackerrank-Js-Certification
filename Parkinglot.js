@@ -1,6 +1,5 @@
 /*
-
-
+    Create a class ParkingLot with the below mentioned details.
 
 
 */
